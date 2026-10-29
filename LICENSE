@@ -1,0 +1,25 @@
+Taktland und 3D-Land
+Copyright (c) 2026 Michael Veikko Seiler. Alle Rechte vorbehalten.
+
+Dies gilt für Taktland (taktland.ch) und für 3D-Land (3dland.ch), das aus
+demselben Code gebaut wird; dieses Repository enthält nur den Workflow, der
+3dland.ch aus dem Repository taktland baut und veröffentlicht. Der Code, die
+Texte, die Gestaltung, die Illustrationen, die Auftaktbilder und die Bildmarken
+dürfen ohne schriftliche Erlaubnis des Urhebers weder kopiert, verändert,
+verbreitet noch öffentlich zugänglich gemacht werden. Dass dieses Repository
+einsehbar ist, gewährt keine Nutzungsrechte.
+
+Ausgenommen sind:
+
+- die Daten Dritter, aus denen Taktland und 3D-Land ihre Angaben beziehen, unter
+  anderem SBB Open Data (data.sbb.ch), opentransportdata.swiss, das Bundesamt
+  für Verkehr BAV, swisstopo, MeteoSchweiz, das Bundesamt für Umwelt BAFU, das
+  Bundesamt für Bevölkerungsschutz BABS, das Bundesamt für Statistik BFS und der
+  Hipparcos-Katalog der ESA. Für sie gelten die Lizenzen und
+  Nutzungsbedingungen der jeweiligen Quelle;
+- die mitgelieferten Bibliotheken Dritter (etwa three.js, React, d3-celestial).
+  Für sie gelten ihre eigenen Lizenzen, aufgeführt in
+  app/public/lizenzen/drittsoftware.txt im Repository taktland und auf
+  3dland.ch.
+
+Für eine Erlaubnis: hallo@taktland.ch
